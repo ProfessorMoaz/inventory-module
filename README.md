@@ -13,6 +13,13 @@ This project is a focused module for managing inventory, dynamic pricing, and tr
 
 ---
 
+> **Note:**  
+> If you are using **XAMPP**, please update the paths in your `public/index.php` and `.htaccess` files accordingly.  
+> You may need to add `/..` in the URLs inside `index.php` to correctly reference resources, due to how XAMPP handles the document root.  
+> For example, change references like `require __DIR__.'/../vendor/autoload.php';` if needed, depending on your setup.
+
+---
+
 ## Installation
 
 ```bash
