@@ -16,7 +16,7 @@ This project is a focused module for managing inventory, dynamic pricing, and tr
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/inventory-module.git
+git clone https://github.com/ProfessorMoaz/inventory-module.git
 cd inventory-module
 composer install
 cp .env.example .env
